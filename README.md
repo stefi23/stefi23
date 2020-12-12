@@ -6,7 +6,7 @@
 🔭 I’m currently teaching "Introduction to Coding" at the Geneva Business School  
 ✨ [Portfolio Page](https://stefi.codes)  
 🐙 [Recurse Center](https://www.recurse.com/) Alumn  
-🎤 In December 2019 I gave a talk about [“The Importance Of Having A Tribe While Transitioning Into Tech”](https://www.youtube.com/watch?v=kiK4bSfGOpc) at [QueerJS](https://queerjs.com/)
+🎤 In December 2019 I gave a talk about [“The Importance Of Having A Tribe While Transitioning Into Tech”](https://www.youtube.com/watch?v=kiK4bSfGOpc) at [QueerJS](https://queerjs.com/)  
 😄 Pronouns: she/they
 
 ---
