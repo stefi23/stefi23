@@ -1,8 +1,6 @@
 ![Profile Image](./CoverStefi.jpg)
 
-### Hello there 🙈
-
----
+# Hello there 🙈
 
 👩‍💻 Frontend Developer, 🌍 traveler & ⛷️ Skier  
 🔭 I’m currently teaching "Introduction to Coding" at the Geneva Business School  
@@ -21,7 +19,7 @@ I am looking for suitable, frontend roles to apply my skills and abilities in an
 
 ---
 
-### Get in touch
+## Get in touch
 
 - Twitter: https://twitter.com/stefania_rosca
 - Linkedin: https://www.linkedin.com/in/stefaniarosca/
