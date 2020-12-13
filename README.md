@@ -11,7 +11,7 @@
 
 ---
 
-Digital marketeer turned into frontend developer with experience in Javascript and React.
+Digital marketer turned into frontend developer with experience in Javascript and React.
 
 I am self-motivated, a fast and keen learner and I believe in staying curious, and inquisitive about technology.
 
