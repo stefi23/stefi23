@@ -3,11 +3,20 @@
 # Hello there 🙈
 
 👩‍💻 Frontend Developer, 🌍 traveler & ⛷️ Skier  
-🔭 I’m currently teaching "Introduction to Coding" at the Geneva Business School  
+🔭 I’m currently working as a Frontend Developer at Codurance and teaching "Introduction to Coding" at the Geneva Business School  
 ✨ [Portfolio Page](https://stefi.codes)  
-🐙 [Recurse Center](https://www.recurse.com/) Alumn  
-🎤 In December 2019 I gave a talk about [“The Importance Of Having A Tribe While Transitioning Into Tech”](https://www.youtube.com/watch?v=kiK4bSfGOpc) at [QueerJS](https://queerjs.com/)  
+👯 [Polywork - Timeline of thigns I've done](https://www.polywork.com/stefi)  
+🐙 [Recurse Center](https://www.recurse.com/) Alumn
+
 😄 Pronouns: she/they
+
+---
+
+# Talks
+
+- May 2021: Spoke on the Anybodycancode podcast: ["The importance of learning in public"](https://open.spotify.com/episode/5dt9s9VbNHjrr3baSgH6ia?si=47e58af21adc47b7&nd=1)
+- April 2021 : [“Testing -never, never for me- at the codebar Festival 2021”](https://www.youtube.com/watch?v=8KIi8P65oPI&ab_channel=codebar) at [QueerJS](https://queerjs.com/)
+- December 2019: [“The Importance Of Having A Tribe While Transitioning Into Tech”](https://www.youtube.com/watch?v=kiK4bSfGOpc) at [codebar Festival](https://codebar.io/)
 
 ---
 
