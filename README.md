@@ -3,7 +3,7 @@
 # Hello there 🙈
 
 👩‍💻 Frontend Developer, 🌍 traveler & ⛷️ Skier  
-🔭 I’m currently working as a Frontend Developer at Codurance and teaching "Introduction to Coding" at the Geneva Business School  
+🔭 I’m currently working as a Frontend Developer at Adevinta and teaching "Introduction to Coding" at the Geneva Business School  
 ✨ [Portfolio Page](https://stefi.codes)  
 👯 [Polywork - Timeline of things I've done](https://www.polywork.com/stefi)  
 🐙 [Recurse Center](https://www.recurse.com/) Alumn
