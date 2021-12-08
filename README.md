@@ -20,6 +20,10 @@
 
 ---
 
+# Articles
+
+---
+
 Digital marketer turned into frontend developer with experience in Javascript and React.
 
 I am self-motivated, a fast and keen learner and I believe in staying curious, and inquisitive about technology.
@@ -32,18 +36,3 @@ I am looking for suitable, frontend roles to apply my skills and abilities in an
 
 - Twitter: https://twitter.com/stefania_rosca
 - Linkedin: https://www.linkedin.com/in/stefaniarosca/
-
-<!--
-**stefi23/stefi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
