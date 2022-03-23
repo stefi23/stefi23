@@ -18,6 +18,7 @@ I am self-motivated, a fast and keen learner and I believe in staying curious, a
 
 # Talks
 
+- February 2022: Spoke on the Scrimba podcast: ["How to market yourself as a developer according to a marketer"](https://open.spotify.com/episode/0YwxxZ1fqQftnyg6PlVEW7?si=4ebe6effcfc94ed4)
 - May 2021: Spoke on the Anybodycancode podcast: ["The importance of learning in public"](https://open.spotify.com/episode/5dt9s9VbNHjrr3baSgH6ia?si=47e58af21adc47b7&nd=1)
 - April 2021 : [“Testing -never, never for me- at the codebar Festival 2021”](https://www.youtube.com/watch?v=8KIi8P65oPI&ab_channel=codebar) at the [codebar Festival](https://codebar.io/)
 - December 2019: [“The Importance Of Having A Tribe While Transitioning Into Tech”](https://www.youtube.com/watch?v=kiK4bSfGOpc) at [QueerJS](https://queerjs.com/)
