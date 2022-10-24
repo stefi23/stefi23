@@ -9,7 +9,7 @@ I am self-motivated, a fast and keen learner and I believe in staying curious, a
 ---
 
 👩‍💻 Frontend Developer, 🌍 traveler & ⛷️ Skier  
-🔭 I’m currently working as a Frontend Developer at Adevinta  
+🔭 I’m currently working as a Frontend Developer at [Typeform](https://www.typeform.com/).  
 ✨ [Portfolio Page](http://stefirosca.netlify.app/)  
 👯 [Polywork - Timeline of things I've done](https://www.polywork.com/stefi)  
 🐙 [Recurse Center](https://www.recurse.com/) Alumn
