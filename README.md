@@ -2,19 +2,16 @@
 
 # Hello there 🙈
 
-I'm Stefi, a digital marketer turned into frontend developer with experience in Javascript and React.
+I'm Stefi, a digital marketer turned into frontend developer with experience in Javascript, TypeScript included, and React.
 
 I am self-motivated, a fast and keen learner and I believe in staying curious, and inquisitive about technology.
 
 ---
 
 👩‍💻 Frontend Developer, 🌍 traveler & ⛷️ Skier  
-🔭 I’m currently working as a Frontend Developer at [Typeform](https://www.typeform.com/).  
-✨ [Portfolio Page](http://stefirosca.netlify.app/)  
-👯 [Polywork - Timeline of things I've done](https://www.polywork.com/stefi)  
-🐙 [Recurse Center](https://www.recurse.com/) Alumn
-
-😄 Pronouns: she/they
+🔭 I’m currently working as a Frontend Developer at [Typeform](https://www.typeform.com/).    
+✨ [Personal Website](http://stefirosca.netlify.app/)  
+🐙 [Recurse Center](https://www.recurse.com/) Alumnus    
 
 # Talks
 
@@ -28,8 +25,10 @@ I am self-motivated, a fast and keen learner and I believe in staying curious, a
 - [🦩 5 Free coding resources that helped me get my first frontend developer job](https://dev.to/stefirosca/5-free-coding-resources-that-helped-me-get-my-first-frontend-developer-job-4ak4)
 - [🚠 My journey into tech](https://dev.to/stefirosca/my-journey-into-tech-48fl)
 - [🤺 7 Useful VS Code extension for junior web developers](https://dev.to/stefirosca/7-useful-vs-code-extension-for-junior-web-developers-3pg5)
+- [🧑‍💻 Essential Reads for New Software Engineers](https://dev.to/stefirosca/essential-reads-for-new-software-engineers-1i8j)
+- [🧑‍💻 Navigating Career Transitions: Is a Bootcamp Right for Me?](https://dev.to/stefirosca/navigating-career-transitions-is-a-bootcamp-right-for-me-1pg5)
 
-Find more at on [dev.to/stefirosca](https://dev.to/stefirosca)
+Find more at [dev.to/stefirosca](https://dev.to/stefirosca) or on [stefi.xyz/blog](https://www.stefi.xyz/blog/).
 
 ## Get in touch
 
