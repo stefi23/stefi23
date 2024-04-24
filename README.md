@@ -26,7 +26,6 @@ I am self-motivated, a fast and keen learner and I believe in staying curious, a
 - [🚠 My journey into tech](https://dev.to/stefirosca/my-journey-into-tech-48fl)
 - [🤺 7 Useful VS Code extension for junior web developers](https://dev.to/stefirosca/7-useful-vs-code-extension-for-junior-web-developers-3pg5)
 - [🧑‍💻 Essential Reads for New Software Engineers](https://dev.to/stefirosca/essential-reads-for-new-software-engineers-1i8j)
-- [🧑‍💻 Navigating Career Transitions: Is a Bootcamp Right for Me?](https://dev.to/stefirosca/navigating-career-transitions-is-a-bootcamp-right-for-me-1pg5)
 
 Find more at [dev.to/stefirosca](https://dev.to/stefirosca) or on [stefi.xyz/blog](https://www.stefi.xyz/blog/).
 
